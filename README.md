@@ -1,7 +1,7 @@
 
 # Housing Data Cleaning and Transformation
 
-This project demostrate data cleaning techniques using SQL. The dataset contains housing data with issues such as missing values, duplicate values, date formatting issues. 
+This project demostrates data cleaning techniques using SQL. The dataset contains housing data with issues such as missing values, duplicate values, date formatting issues. 
 
 ## Objective 
 This project demonstarte practical SQL skills for data cleaning, including data types standarization, duplicate removal, null handling. The purpose is to showcase my ability to prepare the dataset for analytical tasks using efficient SQL queries.This ensures data accuracy, consistency, and readiness for further reporting. 
