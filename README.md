@@ -1,7 +1,6 @@
 
 # Housing Data Cleaning and Transformation
-![](https://github.com/Roma90527/Data-Cleaning-and-Transformation-SQL/blob/8621aeb42f7d9d74bf19548d4fda9eb66a874a8d/housing%20.jpg#L1)
-
+![]housing .jpg
 This project demostrates data cleaning techniques using SQL. The dataset contains housing data with issues such as missing values, duplicate values, date formatting issues. 
 
 ## Objective 
